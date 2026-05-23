@@ -282,7 +282,7 @@ max-width: 1400px;
 /* MOBILE FIX */
 /* ========================= */
 
-@media (max-width: 768px){
+@media (max-width: 900px){
 
     /* HERO */
     .hero{
@@ -291,7 +291,10 @@ max-width: 1400px;
 
         padding: 120px 20px 80px;
     }
-
+.hero-content{
+    height: 100px;
+    width: 30x;
+}
     .hero-content h1{
         font-size: 2.3rem;
         line-height: 1.2;
@@ -418,8 +421,8 @@ height: 420px
 
 /* IMG */
 .card-modern img{
-    width: 100px;
-    height: 420px;
+    width: 400px;
+    height: 200px;
 
     object-fit: cover;
 display: block;
