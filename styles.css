@@ -509,7 +509,7 @@ body::before{
     .hero{
         min-height: 60vh;
 
-        padding: 80px 20px;
+        padding: 0;
     }
 
     .hero-content p{
