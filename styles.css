@@ -186,10 +186,10 @@ body::before{
 }
 
 .hero-content{
-    width: 200%;
+    width: 50%;
     
-    padding: 100px;
-    margin: 150px;
+    padding: auto;
+    margin: auto;
 }
 .hero-content h1 img{
     width: 400%;
